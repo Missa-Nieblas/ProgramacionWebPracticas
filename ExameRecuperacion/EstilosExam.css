@@ -1,0 +1,85 @@
+body{
+    background-color: #d3d696;
+    margin: 0 auto;
+    max-width: 1900px;
+    font-family: 'Raleway', sans-serif;
+}
+
+header{
+    text-align: center;
+    background-color: white;
+}
+
+nav ul{
+    background:#495e09;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+nav ul li{
+    color: white;
+    display: inline-block;
+    text-align: center;
+    margin: 0 35px 0 0;
+}
+
+.logo{
+    width: 35%;
+    display: block;
+    margin: auto;
+}
+.compra{
+    color: #495e09;
+    background-color: #b49231;
+    border-radius: 15px;
+    border: none;
+    height: 30px;
+}
+.billy{
+    text-align: center;
+    background-color: #d3d696;
+}
+.texto1{
+    text-align: justify;
+    margin-left: 35px;
+    padding: 20px;
+    display: inline-block;
+    width: 45%;
+
+
+}
+.texto2{
+    text-align: justify;
+    width: 45%;
+    display: inline-block;
+
+}
+footer{
+    background-color: #495e09;
+    text-align: center;
+    color: white;
+    padding-top: 2px;
+}
+.linea{
+    border-top: white 1px solid;
+    width: 95%;
+    margin-left: 25px;
+    margin-top: 15px;
+
+}
+.izq{
+    width: 49%;
+    display: inline-block;
+    text-align: left;
+}
+.dere{
+    width: 49%;
+    display: inline-block;
+    text-align: right;
+}
+#face, #pint, #inst, #tw{
+    padding-left: 40px;
+    width: 35px;
+
+    
+}
+
